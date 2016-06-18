@@ -4,12 +4,12 @@
 
 # How to Run
 
-npm start
+npm start  # get a coffee or 10
 
 # Require
 
-ffmpeg lib
+ffmpeg lib needed
 
 # Thanks
 
-lgy & soimort
+lgy & soimort 
